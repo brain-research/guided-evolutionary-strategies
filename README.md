@@ -1,6 +1,6 @@
 # Guided Evolutionary Strategies
 
-### Escaping the curse of dimensionality in random search
+**Link to demo notebook:** [Guided ES Demo](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo.ipynb)
 
 ## Overview
 
@@ -71,7 +71,6 @@ Guided ES, on the other hand, combines the strengths of these two approaches.
 ## Contact
 
 Authors:
-
 -   Niru Maheswaranathan (nirum@google.com)
 -   Luke Metz (lmetz@google.com)
 -   George Tucker (gjt@google.com)
