@@ -1,6 +1,9 @@
 # Guided Evolutionary Strategies
 
-**Link to demo notebook:** [Guided ES Demo](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo.ipynb)
+**Link to demo notebook:** [Guided ES
+Demo](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo.ipynb)
+
+**Link to paper:** [arXiv/1806.10230](https://arxiv.org/abs/1806.10230)
 
 ## Overview
 
@@ -68,12 +71,25 @@ gradient information.
 
 Guided ES, on the other hand, combines the strengths of these two approaches.
 
+## Citation
+
+If you use this code, please consider citing our paper:
+
+```
+@article{
+   maheswaranathan2018guided,
+   title = {Guided evolutionary strategies: escaping the curse of dimensionality in random search},
+   author = {Niru Maheswaranathan and Luke Metz and George Tucker and Jascha Sohl-Dickstein},
+   year = {2018},
+   eprint = {arXiv:1806.10230},
+   url = {https://arxiv.org/abs/1806.10230},
+}
+```
+
 ## Contact
 
-Authors:
--   Niru Maheswaranathan (nirum@google.com)
--   Luke Metz (lmetz@google.com)
--   George Tucker (gjt@google.com)
--   Jascha Sohl-Dickstein (jaschasd@google.com)
+Authors: - Niru Maheswaranathan (nirum@google.com) - Luke Metz
+(lmetz@google.com) - George Tucker (gjt@google.com) - Jascha Sohl-Dickstein
+(jaschasd@google.com)
 
 This is not an officially supported Google product.
