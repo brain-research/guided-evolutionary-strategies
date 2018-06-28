@@ -49,7 +49,7 @@ methods) which we call the guiding subspace.
 
 We then perform a finite difference random search (as in evolutionary
 strategies) preferentially within this subspace. By concentrating our search
-samples in a low-dimensional subspace where the true gradient has non-negative
+samples in a low-dimensional subspace where the true gradient has non-negligible
 support, we can dramatically reduce the variance of our search direction.
 
 The figure panel (a) below depicts the geometry underlying our method. Instead
