@@ -88,8 +88,11 @@ If you use this code, please consider citing our paper:
 
 ## Contact
 
-Authors: - Niru Maheswaranathan (nirum@google.com) - Luke Metz
-(lmetz@google.com) - George Tucker (gjt@google.com) - Jascha Sohl-Dickstein
-(jaschasd@google.com)
+Authors:
+
+- Niru Maheswaranathan (nirum@google.com)
+- Luke Metz (lmetz@google.com)
+- George Tucker (gjt@google.com)
+- Jascha Sohl-Dickstein (jaschasd@google.com)
 
 This is not an officially supported Google product.
