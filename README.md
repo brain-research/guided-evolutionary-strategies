@@ -92,6 +92,7 @@ Authors:
 
 - Niru Maheswaranathan (nirum@google.com)
 - Luke Metz (lmetz@google.com)
+- Dami Choi (damichoi@google.com)
 - George Tucker (gjt@google.com)
 - Jascha Sohl-Dickstein (jaschasd@google.com)
 
