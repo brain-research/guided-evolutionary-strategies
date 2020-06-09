@@ -1,7 +1,9 @@
 # Guided Evolutionary Strategies
 
-**Link to demo notebook:** [Guided ES
-Demo](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo_TensorFlow2.ipynb)
+**Link to demo notebooks:
+- [Guided ES Demo, TensorFlow 2](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo_TensorFlow2.ipynb)
+- [Guided ES Demo, Jax](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo_Jax.ipynb)
+- [Guided ES Demo, TensorFlow 1](https://colab.sandbox.google.com/github/brain-research/guided-evolutionary-strategies/blob/master/Guided_Evolutionary_Strategies_Demo_.ipynb)
 
 **Link to paper:** [arXiv/1806.10230](https://arxiv.org/abs/1806.10230)
 
